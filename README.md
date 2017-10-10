@@ -1,3 +1,4 @@
-# animations-spm
+# Datatype Generic(ish) Parallel-ly Composing Animations
 
-A description of this package.
+Look at the main source file for the implementation (test just invokes the foo())
+
